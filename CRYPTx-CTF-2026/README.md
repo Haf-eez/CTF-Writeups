@@ -2,17 +2,6 @@
 
 Welcome to the official repository for **Team GHOST-X**. This project documents our technical journey through the **CryptX CTF 2026**, where we applied advanced forensics, reverse engineering, and OSINT techniques to solve complex security challenges.
 
-## 👥 The Team: GHOST-X
-
-We are a 4-member squad of security enthusiasts. Feel free to connect with us on GitHub:
-
-  * 🛡️ **Sajad Niflar** — [@SajadNiflar](https://github.com/Sajad-Niflar)
-  * 🛡️ **Hafeez Saleem** — [@HafeezSaleem](https://github.com/Haf-eez)
-  * 🛡️ **Chithma Pathirana** — [@ChithmaPathirana](https://github.com/ChithMa)
-  * 🛡️ **Raqeeb Ameen** — [@RaqeebAmeen](https://github.com/rockeeebb)
-
------
-
 ## 👥 Meet the Team: GHOST-X
 
 We are a 4-member squad of security analysts and developers. Connect with us to discuss CTFs, cybersecurity, or collaboration:
