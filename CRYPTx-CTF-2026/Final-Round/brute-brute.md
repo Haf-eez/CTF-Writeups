@@ -97,5 +97,3 @@ cryptx{darkc1cle_tw1ce_2st3p7_h1dden_lay3r}
 * Verified file metadata using `exiftool`
 * Extracted hidden data using `steghide`
 * Learned to check multiple layers (archive → file → embedded data)
-
-`````
