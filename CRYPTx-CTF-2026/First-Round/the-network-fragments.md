@@ -63,14 +63,6 @@ By running the script, the fragmented data across the ICMP payloads was reassemb
 
 ---
 
-## 🎯 Final Flag
-
-```text
-cryptx{1cmp_p4ck37_f0r3n51c5_5ucc355}
-```
-
----
-
 ## 🧠 Key Takeaways
 
 * **ICMP Tunneling/Exfiltration:** ICMP is a common protocol used for data exfiltration because it is often overlooked by basic firewalls.
