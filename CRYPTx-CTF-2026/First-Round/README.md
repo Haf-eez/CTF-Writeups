@@ -31,15 +31,15 @@ We are a 4-member team of security enthusiasts and analysts:
 
 | Challenge Name | Category | Writeup Link |
 | :--- | :--- | :--- |
-| **Magic Peeler** | Forensics (Archives) | [View Writeup](https://www.google.com/search?q=./magic-peeler.md) |
-| **The Chimera Vault** | OSINT / Git Forensics | [View Writeup](https://www.google.com/search?q=./the-chimera-vault.md) |
-| **The Rogue Architect** | OSINT / Audio Stego | [View Writeup](https://www.google.com/search?q=./the-rogue-architect.md) |
-| **The Network Fragments** | Network Forensics | [View Writeup](https://www.google.com/search?q=./the-network-fragments.md) |
-| **The Breach** | Android Reverse Engineering | [View Writeup](https://www.google.com/search?q=./the-breach.md) |
-| **Shards of the Signal** | Cryptography | [View Writeup](https://www.google.com/search?q=./shards-of-the-signal.md) |
-| **Lactose & Lies** | Visual Steganography | [View Writeup](https://www.google.com/search?q=./lactose-%26-lies.md) |
-| **Brute... Brute...** | Password Cracking | [View Writeup](https://www.google.com/search?q=./brute-brute.md) |
-| **Obfuscated Cells** | Malware / Script Analysis | [View Writeup](https://www.google.com/search?q=./obfuscated-cells.md) |
+| **Magic Peeler** | Forensics (Archives) | [View Writeup](https://github.com/Haf-eez/CTF-Writeups/blob/main/CRYPTx-CTF-2026/First-Round/magic-peeler.md) |
+| **The Chimera Vault** | OSINT / Git Forensics | [View Writeup](https://github.com/Haf-eez/CTF-Writeups/blob/main/CRYPTx-CTF-2026/First-Round/the-chimera-vault.md) |
+| **The Rogue Architect** | OSINT / Audio Stego | [View Writeup](https://github.com/Haf-eez/CTF-Writeups/blob/main/CRYPTx-CTF-2026/First-Round/the-rogue-architect.md) |
+| **The Network Fragments** | Network Forensics | [View Writeup](https://github.com/Haf-eez/CTF-Writeups/blob/main/CRYPTx-CTF-2026/First-Round/the-network-fragments.md) |
+| **The Breach** | Android Reverse Engineering | [View Writeup](https://github.com/Haf-eez/CTF-Writeups/blob/main/CRYPTx-CTF-2026/First-Round/the-breach.md) |
+| **Shards of the Signal** | Cryptography | [View Writeup](https://github.com/Haf-eez/CTF-Writeups/blob/main/CRYPTx-CTF-2026/First-Round/shards-of-the-signal.md) |
+| **Lactose & Lies** | Visual Steganography | [View Writeup](https://github.com/Haf-eez/CTF-Writeups/blob/main/CRYPTx-CTF-2026/First-Round/lactose-%26-lies.md) |
+| **Brute... Brute...** | Password Cracking | [View Writeup](https://github.com/Haf-eez/CTF-Writeups/blob/main/CRYPTx-CTF-2026/First-Round/brute-brute.md) |
+| **Obfuscated Cells** | Malware / Script Analysis | [View Writeup](https://github.com/Haf-eez/CTF-Writeups/blob/main/CRYPTx-CTF-2026/First-Round/obfuscated-cells.md) |
 
 -----
 
