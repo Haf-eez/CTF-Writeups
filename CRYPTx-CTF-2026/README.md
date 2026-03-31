@@ -9,7 +9,20 @@ We are a 4-member squad of security enthusiasts. Feel free to connect with us on
   * 🛡️ **Sajad Niflar** — [@SajadNiflar](https://github.com/Sajad-Niflar)
   * 🛡️ **Hafeez Saleem** — [@HafeezSaleem](https://github.com/Haf-eez)
   * 🛡️ **Chithma Pathirana** — [@ChithmaPathirana](https://github.com/ChithMa)
-  * 🛡️ **Raqeeb Ameen** — [@RaqeebAmeen](https://github.com/rockeeebb) 
+  * 🛡️ **Raqeeb Ameen** — [@RaqeebAmeen](https://github.com/rockeeebb)
+
+-----
+
+## 👥 Meet the Team: GHOST-X
+
+We are a 4-member squad of security analysts and developers. Connect with us to discuss CTFs, cybersecurity, or collaboration:
+
+| Member | GitHub | LinkedIn |
+| :--- | :--- | :--- |
+| **Sajad Niflar** | [💻 Profile](https://github.com/Sajad-Niflar) | [🔗 Connect](https://www.linkedin.com/in/sajadniflar) |
+| **Hafeez Saleem** | [💻 Profile](https://github.com/Haf-eez) | [🔗 Connect](https://www.linkedin.com/in/hafeez-saleem) |
+| **Chithma Pathirana** | [💻 Profile](https://github.com/ChithMa) | [🔗 Connect](https://www.linkedin.com/in/chithma-pathirana-32389b323) |
+| **Raqeeb Ameen** | [💻 Profile](https://github.com/rockeeebb) | [🔗 Connect](https://www.linkedin.com/in/rockeebb) |
 
 -----
 
