@@ -12,7 +12,7 @@ We are a 4-member team of security enthusiasts and analysts:
 
   * **Sajad Niflar**
   * **Hafeez Saleem**
-  * **Chithma Managa**
+  * **Chithma Pathirana**
   * **Raqeeb Ameen**
 
 -----
